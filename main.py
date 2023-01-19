@@ -1,6 +1,3 @@
-from msilib import change_sequence
-from msilib.schema import CompLocator
-from socket import NI_DGRAM
 import tkinter as tk
 
 win = tk.Tk()
